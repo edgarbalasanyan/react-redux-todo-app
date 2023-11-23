@@ -1,0 +1,7 @@
+.completed{
+  text-align: start;
+  padding: 10px;
+  list-style:decimal;
+  background-color: #373c44;
+  color: rgb(255, 255, 255);
+}

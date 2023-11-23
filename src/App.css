@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+
+}
+h1{
+  color: aliceblue;
+  font-size: calc(30px + 2vmin);
+  margin: 0;
+  padding: 4rem 0;
+}
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: auto 5rem;
+  align-items: start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
